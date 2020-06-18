@@ -1,0 +1,16 @@
+To create ,add, update and delete item for cartcart
+
+http://localhost:3000/cart/ayush/operation
+ {
+ 	"product":{
+ 		"qty":0,
+ 		"id":"a11",
+ 		"price":40
+ 		
+ 		
+ 	}
+
+}
+
+show cart 
+http://localhost:3000/cart/ayush
